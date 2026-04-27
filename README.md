@@ -139,67 +139,82 @@ Public or externally documented data sources include:
 
 - **Traffic zones, NPVM 2017 / VM-UVEK / ARE**  
   Local folder: `TrafficZones_2017/` and `TZ/`  
-  URL: https://zenodo.org/records/7777651
+  URL: https://zenodo.org/records/7777651  
+  Citation: VM-UVEK. (2017). *Verkehrsmodellierung im UVEK: Daten Zustand 2017 – Verkehrszonen*. Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) and Bundesamt für Raumentwicklung (ARE). Available at: https://zenodo.org/records/7777651 [Accessed 23.10.2025].
 
 - **OpenStreetMap contributors**  
   Local folder: `OSM/`  
-  URL: https://www.openstreetmap.org/copyright
+  URL: https://www.openstreetmap.org  
+  Citation: OpenStreetMap contributors. (2026). *OpenStreetMap*. Available at: https://www.openstreetmap.org [Accessed 28.02.2026].
 
 - **Overpass API / Overpass Turbo for OpenStreetMap data extraction**  
   Local folder: `OSM/`  
-  URL: https://overpass-turbo.osm.ch
+  URL: https://overpass-turbo.osm.ch  
+  Citation: Overpass Turbo contributors. (2026). *Overpass Turbo - Swiss Edition*. Available at: https://overpass-turbo.osm.ch [Accessed 28.02.2026].
 
 - **Swiss land-use statistics, BFS Arealstatistik / NOAS04**  
   Local folder: `Arealstatistik_2025/`  
-  URL: https://data.geo.admin.ch/browser/index.html#/collections/ch.bfs.arealstatistik/items/arealstatistik
+  URL: https://data.geo.admin.ch/browser/index.html#/collections/ch.bfs.arealstatistik/items/arealstatistik  
+  Citation: BFS. (2025). *Land use statistics based on the nomenclature NOAS04*. Bundesamt für Statistik (BFS). Available at: https://data.geo.admin.ch/browser/index.html#/collections/ch.bfs.arealstatistik/items/arealstatistik?.language=de-CH [Accessed 15.02.2026].
 
 - **Building and housing statistics, BFS GWS**  
   Local folder: `Buildings_2024/`  
-  URL: https://www.bfs.admin.ch/bfs/de/home/dienstleistungen/geostat/geodaten-bundesstatistik/gebaeude-wohnungen-haushalte-personen/gebaeude-wohnungen-ab-2010.assetdetail.36178236.html
+  URL: https://www.bfs.admin.ch/bfs/de/home/dienstleistungen/geostat/geodaten-bundesstatistik/gebaeude-wohnungen-haushalte-personen/gebaeude-wohnungen-ab-2010.assetdetail.36178236.html  
+  Citation: BFS. (2024). *Gebäude- und Wohnungsstatistik (GWS): Geodaten 2024*. Bundesamt für Statistik (BFS). Available at: https://www.bfs.admin.ch/bfs/de/home/dienstleistungen/geostat/geodaten-bundesstatistik/gebaeude-wohnungen-haushalte-personen/gebaeude-wohnungen-ab-2010.assetdetail.36178236.html [Accessed 15.02.2026].
 
 - **Employment and workplace statistics, BFS STATENT**  
   Local folder: `Jobs_2023/`  
-  URL: https://www.bfs.admin.ch/bfs/de/home/dienstleistungen/geostat/geodaten-bundesstatistik/arbeitsstaetten-beschaeftigung/statistik-unternehmensstruktur-statent-ab-2011.assetdetail.36073031.html
+  URL: https://www.bfs.admin.ch/bfs/de/home/dienstleistungen/geostat/geodaten-bundesstatistik/arbeitsstaetten-beschaeftigung/statistik-unternehmensstruktur-statent-ab-2011.assetdetail.36073031.html  
+  Citation: BFS. (2023). *Statistik der Unternehmensstruktur (STATENT), Beschäftigte und Arbeitsstätten: Geodaten 2023*. Bundesamt für Statistik (BFS). Available at: https://www.bfs.admin.ch/bfs/de/home/dienstleistungen/geostat/geodaten-bundesstatistik/arbeitsstaetten-beschaeftigung/statistik-unternehmensstruktur-statent-ab-2011.assetdetail.36073031.html [Accessed 15.02.2026].
 
 - **Population statistics, BFS STATPOP**  
   Local folder: `Population_2024/`  
-  URL: https://www.bfs.admin.ch/bfs/de/home/dienstleistungen/geostat/geodaten-bundesstatistik/gebaeude-wohnungen-haushalte-personen/bevoelkerung-haushalte-ab-2010.assetdetail.36171301.html
+  URL: https://www.bfs.admin.ch/bfs/de/home/dienstleistungen/geostat/geodaten-bundesstatistik/gebaeude-wohnungen-haushalte-personen/bevoelkerung-haushalte-ab-2010.assetdetail.36171301.html  
+  Citation: BFS. (2024). *Statistik der Bevölkerung und Haushalte (STATPOP), Geodaten 2024*. Bundesamt für Statistik (BFS). Available at: https://www.bfs.admin.ch/bfs/de/home/dienstleistungen/geostat/geodaten-bundesstatistik/gebaeude-wohnungen-haushalte-personen/bevoelkerung-haushalte-ab-2010.assetdetail.36171301.html [Accessed 15.02.2026].
 
 - **swissTLM3D, Swiss Federal Office of Topography Swisstopo**  
   Local folder: `swissTLM3D_2025/`  
-  URL: https://www.swisstopo.admin.ch/de/landschaftsmodell-swisstlm3d
+  URL: https://www.swisstopo.admin.ch/de/landschaftsmodell-swisstlm3d  
 
 - **Pro Natura nature preserves**  
   Local file: `GEOADMIN/Reserves_2024.gpkg`  
-  URL: https://data.geo.admin.ch/browser/index.html#/collections/ch.pronatura.naturschutzgebiete/items/naturschutzgebiete
+  URL: https://data.geo.admin.ch/browser/index.html#/collections/ch.pronatura.naturschutzgebiete/items/naturschutzgebiete  
+  Citation: Pro Natura. (2023). *Nature Reserves of Pro Natura*. Pro Natura Switzerland. Available at: https://data.geo.admin.ch/browser/index.html#/collections/ch.pronatura.naturschutzgebiete/items/naturschutzgebiete?.language=de-CH&.asset=asset-naturschutzgebiete_2056-gpkg [Accessed 10.03.2026].
 
 - **Swiss parks of national importance, BAFU**  
   Local folder: `GEOADMIN/Parks_2025/`  
-  URL: https://data.geo.admin.ch/browser/index.html#/collections/ch.bafu.schutzgebiete-paerke_nationaler_bedeutung/items/schutzgebiete-paerke_nationaler_bedeutung
+  URL: https://data.geo.admin.ch/browser/index.html#/collections/ch.bafu.schutzgebiete-paerke_nationaler_bedeutung/items/schutzgebiete-paerke_nationaler_bedeutung  
+  Citation: BAFU. (2025). *Swiss National Park and parks of national importance (Zones)*. Bundesamt für Umwelt (BAFU). Available at: https://data.geo.admin.ch/browser/index.html#/collections/ch.bafu.schutzgebiete-paerke_nationaler_bedeutung/items/schutzgebiete-paerke_nationaler_bedeutung [Accessed 28.01.2026].
 
 - **Ski routes, Swisstopo**  
   Local folder: `GEOADMIN/Skiroutes_2024/`  
-  URL: https://data.geo.admin.ch/browser/index.html#/collections/ch.swisstopo-karto.skitouren/items/skitouren
+  URL: https://data.geo.admin.ch/browser/index.html#/collections/ch.swisstopo-karto.skitouren/items/skitouren  
+  Citation: Swisstopo. (2024). *Skitouren*. Swiss Federal Office of Topography. Available at: https://data.geo.admin.ch/browser/index.html#/collections/ch.swisstopo-karto.skitouren/items/skitouren?.language=en [Accessed 15.01.2026].
 
 - **Snowshoe routes, Swisstopo**  
   Local folder: `GEOADMIN/Snowshow_routes_2024/`  
-  URL: https://data.geo.admin.ch/browser/index.html#/collections/ch.swisstopo-karto.schneeschuhrouten/items/schneeschuhrouten
+  URL: https://data.geo.admin.ch/browser/index.html#/collections/ch.swisstopo-karto.schneeschuhrouten/items/schneeschuhrouten  
+  Citation: Swisstopo. (2024). *Schneeschuhrouten*. Swiss Federal Office of Topography. Available at: https://data.geo.admin.ch/browser/index.html#/collections/ch.swisstopo-karto.schneeschuhrouten/items/schneeschuhrouten?.language=en [Accessed 15.01.2026].
 
 - **Winter cableways, Swisstopo**  
   Local folder: `GEOADMIN/Cableways_2024/`  
-  URL: https://data.geo.admin.ch/browser/index.html#/collections/ch.swisstopo.bahnen-winter/items/bahnen-winter
+  URL: https://data.geo.admin.ch/browser/index.html#/collections/ch.swisstopo.bahnen-winter/items/bahnen-winter  
+  Citation: Swisstopo. (2024). *Cableways/skilifts winter*. Swiss Federal Office of Topography. Available at: https://data.geo.admin.ch/browser/index.html#/collections/ch.swisstopo.bahnen-winter/items/bahnen-winter [Accessed 15.01.2026].
 
 - **Swiss Glacier Inventory, GLAMOS**  
   Local folder: `GEOADMIN/Glacier_2016/`  
-  URL: https://www.glamos.ch/downloads#inventories/A10g-05
+  URL: https://www.glamos.ch/downloads#inventories/A10g-05  
+  Citation: GLAMOS. (2016). *SCHWEIZER GLETSCHER*. Glacier Monitoring Switzerland (GLAMOS). Available at: https://www.glamos.ch/downloads#inventories/A10g-05 [Accessed 15.02.2026].
 
 - **Hiking trails, Swisstopo**  
   Local file: `GEOADMIN/Hiking_2023.gpkg`  
-  URL: https://data.geo.admin.ch/browser/index.html#/collections/ch.swisstopo.swisstlm3d-wanderwege/items/swisstlm3d-wanderwege
+  URL: https://data.geo.admin.ch/browser/index.html#/collections/ch.swisstopo.swisstlm3d-wanderwege/items/swisstlm3d-wanderwege  
+  Citation: Swisstopo. (2025). *swissTLM3D – Topographisches Landschaftsmodell der Schweiz*. Swiss Federal Office of Topography. Available at: https://www.swisstopo.admin.ch/de/landschaftsmodell-swisstlm3d [Accessed 15.01.2026].
 
 Restricted or non-distributable inputs include:
 
-- MTMC individual-level data;
+- **MTMC individual-level data**  
+  Citation: ARE & BFS. (2021). *Mikrozensus Mobilität und Verkehr (MZMV)*. Bundesamt für Raumentwicklung (ARE) und Bundesamt für Statistik (BFS). Available at: https://www.are.admin.ch/de/mzmv [Accessed 23.10.2025].
 - internal SBB/MOBi5 travel-cost skims;
 - SBB accessibility layers;
 - derived origin-destination utility matrices;
