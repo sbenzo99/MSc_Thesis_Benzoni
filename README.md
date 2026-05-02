@@ -33,6 +33,9 @@ This repository documents the empirical workflow and code developed for the MSc 
 
 A link to the final thesis document will be added here once the thesis is publicly available.
 
+A conference paper based on this work was prepared for the 26th Swiss Transport Research Conference (STRC 2026): [`STRC_2026_Benzoni_etAl.pdf`](STRC_2026_Benzoni_etAl.pdf).
+
+
 The repository should not be interpreted as a fully self-contained public reproduction package. Several inputs used in the full empirical workflow cannot be redistributed because they contain sensitive, confidential, licensed, very large, or otherwise non-distributable data. This applies especially to individual-level mobility data, travel-cost skims, accessibility matrices, large raw geospatial source layers, and some derived modelling inputs.
 
 The files and notebooks are therefore provided to make the workflow transparent: they document the code, processing logic, variable construction, model estimation, and robustness checks used in the thesis.
